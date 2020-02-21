@@ -1,2 +1,4 @@
 # hello-world
-First rrpository
+First repository
+
+I am learning Data Science.
